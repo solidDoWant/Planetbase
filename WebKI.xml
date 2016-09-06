@@ -1068,8 +1068,8 @@
   <HelpKINode Title="AStar class">
     <HelpKINode Title="AStar Class" Url="html/86af4b94-1dce-a4e7-9ceb-00d725633fdb.htm" />
     <HelpKINode Title="about AStar class" Url="html/86af4b94-1dce-a4e7-9ceb-00d725633fdb.htm" />
-    <HelpKINode Title="constructor" Url="html/4cd62003-f962-a0ca-0d8f-42730ccbd5d7.htm" />
     <HelpKINode Title="constructor" Url="html/9eb778f4-1a1a-4d75-3df8-63f904c3aa14.htm" />
+    <HelpKINode Title="constructor" Url="html/4cd62003-f962-a0ca-0d8f-42730ccbd5d7.htm" />
     <HelpKINode Title="fields" Url="html/ef6a337a-52b6-3486-f83c-ecd1cd000890.htm" />
     <HelpKINode Title="methods" Url="html/1fc170b8-9d86-7b71-5608-ca096f4f28e7.htm" />
   </HelpKINode>
@@ -1270,8 +1270,8 @@
     <HelpKINode Title="methods" Url="html/7eb144eb-6f1c-87d6-8825-a0b93754ab18.htm" />
   </HelpKINode>
   <HelpKINode Title="BasicTutorial.BasicTutorial constructor">
-    <HelpKINode Title="BasicTutorial Constructor " Url="html/97c5f2f8-f351-24f9-0608-b5c867d4b554.htm" />
     <HelpKINode Title="BasicTutorial Constructor " Url="html/a200c97f-22ac-c870-8ede-771a4d3660d8.htm" />
+    <HelpKINode Title="BasicTutorial Constructor " Url="html/97c5f2f8-f351-24f9-0608-b5c867d4b554.htm" />
   </HelpKINode>
   <HelpKINode Title="BasicTutorial.LandingLocation field" Url="html/626f4b9e-3494-264d-a03c-3d6c9a102fe8.htm" />
   <HelpKINode Title="Bed class">
@@ -1392,8 +1392,8 @@
   <HelpKINode Title="Bot field" Url="html/50ec2195-f053-bde0-4c57-3a2fa9f8fcdc.htm" />
   <HelpKINode Title="Bot.anyFree method" Url="html/44ba2c7e-5313-c8b6-6e72-b86e1093332e.htm" />
   <HelpKINode Title="Bot.Bot constructor">
-    <HelpKINode Title="Bot Constructor " Url="html/78878af1-2b86-9022-0150-2838d06584f0.htm" />
     <HelpKINode Title="Bot Constructor " Url="html/b403affd-dc4d-eeaf-2cd7-1247c4a44a71.htm" />
+    <HelpKINode Title="Bot Constructor " Url="html/78878af1-2b86-9022-0150-2838d06584f0.htm" />
   </HelpKINode>
   <HelpKINode Title="Bot.calculateRecycleAmounts method" Url="html/05a01bdd-c8b7-c41b-f62e-f9ad797c8758.htm" />
   <HelpKINode Title="Bot.deserialize method" Url="html/3a124e7d-ef5b-3b98-e816-b81d8f69444c.htm" />
@@ -1472,15 +1472,15 @@
   <HelpKINode Title="Buildable class">
     <HelpKINode Title="Buildable Class" Url="html/683d7d28-709d-1a62-d44d-fff88717f316.htm" />
     <HelpKINode Title="about Buildable class" Url="html/683d7d28-709d-1a62-d44d-fff88717f316.htm" />
-    <HelpKINode Title="constructor" Url="html/c2ecff30-b1c3-8808-a05d-192139ffea25.htm" />
     <HelpKINode Title="constructor" Url="html/68f0602c-807d-a060-2040-45bfcc19b651.htm" />
+    <HelpKINode Title="constructor" Url="html/c2ecff30-b1c3-8808-a05d-192139ffea25.htm" />
     <HelpKINode Title="fields" Url="html/b8686867-d408-5b31-7537-6dbd25af6a35.htm" />
     <HelpKINode Title="methods" Url="html/4d363381-30ec-b856-cd41-e7f23b1af482.htm" />
   </HelpKINode>
   <HelpKINode Title="Buildable.addConstructionMaterial method" Url="html/d9287ebb-c33b-03d5-5790-d7d4e1d6ebc3.htm" />
   <HelpKINode Title="Buildable.Buildable constructor">
-    <HelpKINode Title="Buildable Constructor " Url="html/68f0602c-807d-a060-2040-45bfcc19b651.htm" />
     <HelpKINode Title="Buildable Constructor " Url="html/c2ecff30-b1c3-8808-a05d-192139ffea25.htm" />
+    <HelpKINode Title="Buildable Constructor " Url="html/68f0602c-807d-a060-2040-45bfcc19b651.htm" />
   </HelpKINode>
   <HelpKINode Title="Buildable.calculateBuildLocationReachable method" Url="html/3b7c8424-2bf5-cb32-1a49-c2dd969ce937.htm" />
   <HelpKINode Title="Buildable.calculateCost method" Url="html/a58b6a57-cc09-2eec-874a-694ea79a6b49.htm" />
@@ -1834,8 +1834,8 @@
   <HelpKINode Title="Challenge class">
     <HelpKINode Title="Challenge Class" Url="html/1ffb5c77-f4bf-671f-b972-56d99bdf3ffb.htm" />
     <HelpKINode Title="about Challenge class" Url="html/1ffb5c77-f4bf-671f-b972-56d99bdf3ffb.htm" />
-    <HelpKINode Title="constructor" Url="html/9204345d-753b-b286-4708-48cb06f106ec.htm" />
     <HelpKINode Title="constructor" Url="html/6ae578e2-06f7-78c3-d332-f5bffca77e67.htm" />
+    <HelpKINode Title="constructor" Url="html/9204345d-753b-b286-4708-48cb06f106ec.htm" />
     <HelpKINode Title="fields" Url="html/1e01a8d0-92a9-9eef-1bb2-7b24e2026f33.htm" />
     <HelpKINode Title="methods" Url="html/32e3cc87-5322-6900-e645-632c0f8ba842.htm" />
   </HelpKINode>
@@ -1843,8 +1843,8 @@
   <HelpKINode Title="Challenge.applyEnvironmentModifiers method" Url="html/11a57054-f571-e64e-6cd1-33cbfb97119a.htm" />
   <HelpKINode Title="Challenge.applyTerrainModifiers method" Url="html/7ee82fcd-0687-bc79-23aa-fd703069b016.htm" />
   <HelpKINode Title="Challenge.Challenge constructor">
-    <HelpKINode Title="Challenge Constructor " Url="html/6ae578e2-06f7-78c3-d332-f5bffca77e67.htm" />
     <HelpKINode Title="Challenge Constructor " Url="html/9204345d-753b-b286-4708-48cb06f106ec.htm" />
+    <HelpKINode Title="Challenge Constructor " Url="html/6ae578e2-06f7-78c3-d332-f5bffca77e67.htm" />
   </HelpKINode>
   <HelpKINode Title="Challenge.ChallengeList field" Url="html/7a7a2421-a47d-a1fb-a6ac-48686e34bd23.htm" />
   <HelpKINode Title="Challenge.ChallengesResourceFolder field" Url="html/ee5ddb96-fc82-7bb1-34de-4ecb8bbcf4a9.htm" />
@@ -2013,8 +2013,8 @@
   <HelpKINode Title="Character class">
     <HelpKINode Title="Character Class" Url="html/ba9f4f4d-afdc-37bc-c628-90d0405f9853.htm" />
     <HelpKINode Title="about Character class" Url="html/ba9f4f4d-afdc-37bc-c628-90d0405f9853.htm" />
-    <HelpKINode Title="constructor" Url="html/8f6e15bd-e121-1777-dbc7-ed6e589855bb.htm" />
     <HelpKINode Title="constructor" Url="html/628b26bc-dd91-8e0e-36ba-b5ae87cb8060.htm" />
+    <HelpKINode Title="constructor" Url="html/8f6e15bd-e121-1777-dbc7-ed6e589855bb.htm" />
     <HelpKINode Title="fields" Url="html/b67c62af-335a-ae2a-3036-a8b69cb5dac0.htm" />
     <HelpKINode Title="methods" Url="html/a8a5055b-32f8-aaa2-7b50-7fa9c2d90a01.htm" />
   </HelpKINode>
@@ -2667,8 +2667,8 @@
   <HelpKINode Title="ComponentType class">
     <HelpKINode Title="ComponentType Class" Url="html/6c459c2d-05cc-cb68-5560-e02799be8102.htm" />
     <HelpKINode Title="about ComponentType class" Url="html/6c459c2d-05cc-cb68-5560-e02799be8102.htm" />
-    <HelpKINode Title="constructor" Url="html/f8520514-b2bd-789e-cc21-63aa9a3d6643.htm" />
     <HelpKINode Title="constructor" Url="html/f9940e72-1d44-3b12-67f2-310e4fc6225a.htm" />
+    <HelpKINode Title="constructor" Url="html/f8520514-b2bd-789e-cc21-63aa9a3d6643.htm" />
     <HelpKINode Title="fields" Url="html/e4a97210-0170-3c17-d175-53050efb7053.htm" />
     <HelpKINode Title="methods" Url="html/657ec974-908e-2dcf-11e7-922e5a778b5b.htm" />
   </HelpKINode>
@@ -2682,8 +2682,8 @@
   <HelpKINode Title="ComponentType.addUsageAnimation method" Url="html/7c2d513c-9e42-22e4-7614-53f5f0f7a674.htm" />
   <HelpKINode Title="ComponentType.clear method" Url="html/58ed5113-cf21-fb8c-926a-79333431ab7c.htm" />
   <HelpKINode Title="ComponentType.ComponentType constructor">
-    <HelpKINode Title="ComponentType Constructor " Url="html/f9940e72-1d44-3b12-67f2-310e4fc6225a.htm" />
     <HelpKINode Title="ComponentType Constructor " Url="html/f8520514-b2bd-789e-cc21-63aa9a3d6643.htm" />
+    <HelpKINode Title="ComponentType Constructor " Url="html/f9940e72-1d44-3b12-67f2-310e4fc6225a.htm" />
   </HelpKINode>
   <HelpKINode Title="ComponentType.consumesResource method" Url="html/372ff686-3cb1-17d6-c4b0-ed30ecdeebeb.htm" />
   <HelpKINode Title="ComponentType.createModel method" Url="html/2504ebc2-9e69-28ea-e0a2-a778b33fd5fc.htm" />
@@ -3305,8 +3305,8 @@
   <HelpKINode Title="ConstructionComponent class">
     <HelpKINode Title="ConstructionComponent Class" Url="html/c1c543d8-bea9-b71d-4be3-3e76eca9db71.htm" />
     <HelpKINode Title="about ConstructionComponent class" Url="html/c1c543d8-bea9-b71d-4be3-3e76eca9db71.htm" />
-    <HelpKINode Title="constructor" Url="html/89ef5965-42e0-87e4-1ad9-fd0b0c0b8530.htm" />
     <HelpKINode Title="constructor" Url="html/f0ce0eb7-d106-600d-4537-18d7ce2dfbb6.htm" />
+    <HelpKINode Title="constructor" Url="html/89ef5965-42e0-87e4-1ad9-fd0b0c0b8530.htm" />
     <HelpKINode Title="fields" Url="html/3edee627-4f55-0048-0ec0-b511bc5f2f5a.htm" />
     <HelpKINode Title="methods" Url="html/126526c6-fef1-e888-a2a6-c4f8b4c3f3f5.htm" />
   </HelpKINode>
@@ -3322,8 +3322,8 @@
   <HelpKINode Title="ConstructionComponent.clearRemoteModule method" Url="html/1a3b9f4a-509b-ed71-7b04-84a82fb18f9c.htm" />
   <HelpKINode Title="ConstructionComponent.completeProduction method" Url="html/36090fc1-9869-b980-b277-6581666d3aef.htm" />
   <HelpKINode Title="ConstructionComponent.ConstructionComponent constructor">
-    <HelpKINode Title="ConstructionComponent Constructor " Url="html/f0ce0eb7-d106-600d-4537-18d7ce2dfbb6.htm" />
     <HelpKINode Title="ConstructionComponent Constructor " Url="html/89ef5965-42e0-87e4-1ad9-fd0b0c0b8530.htm" />
+    <HelpKINode Title="ConstructionComponent Constructor " Url="html/f0ce0eb7-d106-600d-4537-18d7ce2dfbb6.htm" />
   </HelpKINode>
   <HelpKINode Title="ConstructionComponent.consumeResource method" Url="html/c2c98fa6-c9ea-e53a-1602-e4bcc087e211.htm" />
   <HelpKINode Title="ConstructionComponent.consumeResources method" Url="html/608ca8df-3d9f-bb7d-2127-e9b985bbe97b.htm" />
@@ -3654,8 +3654,8 @@
   <HelpKINode Title="DebugManager class">
     <HelpKINode Title="DebugManager Class" Url="html/23333991-9e9b-fcdd-c4c8-0f41b91d9d17.htm" />
     <HelpKINode Title="about DebugManager class" Url="html/23333991-9e9b-fcdd-c4c8-0f41b91d9d17.htm" />
-    <HelpKINode Title="constructor" Url="html/053e1a9c-e7a0-5c01-3f42-f022b139e55b.htm" />
     <HelpKINode Title="constructor" Url="html/ddc12ed3-c2b6-ddb7-b7d1-b0b5b3fcf1fd.htm" />
+    <HelpKINode Title="constructor" Url="html/053e1a9c-e7a0-5c01-3f42-f022b139e55b.htm" />
     <HelpKINode Title="fields" Url="html/425febb0-739f-f068-d69a-c9247e49059c.htm" />
     <HelpKINode Title="methods" Url="html/e92a9efe-d2c6-2e8e-868c-cde545e125bb.htm" />
   </HelpKINode>
@@ -3801,15 +3801,15 @@
   <HelpKINode Title="DescriptionItem class">
     <HelpKINode Title="DescriptionItem Class" Url="html/4411eeba-3910-9346-788c-d90700f74e31.htm" />
     <HelpKINode Title="about DescriptionItem class" Url="html/4411eeba-3910-9346-788c-d90700f74e31.htm" />
-    <HelpKINode Title="constructor" Url="html/8e0715a3-df47-05ce-62eb-f7b1ed9fb9ff.htm" />
     <HelpKINode Title="constructor" Url="html/c9797e14-c184-a709-0053-a78d968f7949.htm" />
+    <HelpKINode Title="constructor" Url="html/8e0715a3-df47-05ce-62eb-f7b1ed9fb9ff.htm" />
     <HelpKINode Title="fields" Url="html/fed4ca12-9927-c936-bad2-c7cc213957c5.htm" />
     <HelpKINode Title="methods" Url="html/f1de609e-7cc0-a93e-0443-484de2fc93b4.htm" />
   </HelpKINode>
   <HelpKINode Title="DescriptionItem.Armed field" Url="html/241b877d-2763-e0f9-977f-e6a0ca87b7cf.htm" />
   <HelpKINode Title="DescriptionItem.DescriptionItem constructor">
-    <HelpKINode Title="DescriptionItem Constructor " Url="html/c9797e14-c184-a709-0053-a78d968f7949.htm" />
     <HelpKINode Title="DescriptionItem Constructor " Url="html/8e0715a3-df47-05ce-62eb-f7b1ed9fb9ff.htm" />
+    <HelpKINode Title="DescriptionItem Constructor " Url="html/c9797e14-c184-a709-0053-a78d968f7949.htm" />
   </HelpKINode>
   <HelpKINode Title="DescriptionItem.getIcon method" Url="html/db23223e-39c6-963a-86eb-e4726f33605a.htm" />
   <HelpKINode Title="DescriptionItem.getSelectable method" Url="html/3cc43611-b7d2-a503-5967-def10092a342.htm" />
@@ -4299,8 +4299,8 @@
   <HelpKINode Title="ErrorManager class">
     <HelpKINode Title="ErrorManager Class" Url="html/19c2ae26-2bc0-5a6a-9838-38c72c9835f6.htm" />
     <HelpKINode Title="about ErrorManager class" Url="html/19c2ae26-2bc0-5a6a-9838-38c72c9835f6.htm" />
-    <HelpKINode Title="constructor" Url="html/52124d31-b2e2-2bb9-941a-a40ffdbccf10.htm" />
     <HelpKINode Title="constructor" Url="html/8fb33a8d-7b10-005e-d2ec-8f765359cf61.htm" />
+    <HelpKINode Title="constructor" Url="html/52124d31-b2e2-2bb9-941a-a40ffdbccf10.htm" />
     <HelpKINode Title="fields" Url="html/50636f11-c9b1-05a5-5c3b-451a3f2a8daf.htm" />
     <HelpKINode Title="methods" Url="html/36f84e9b-07e8-e45e-64ed-587109a3faaf.htm" />
   </HelpKINode>
@@ -4502,7 +4502,6 @@
   <HelpKINode Title="findValidProductionPosition method" Url="html/a03e576c-6ad5-02d3-6926-b920fa367064.htm" />
   <HelpKINode Title="finish method" Url="html/25ed0c56-7a67-d35d-0b92-24710256bc77.htm" />
   <HelpKINode Title="FirstSavegameVersion field" Url="html/d6775f50-4716-3f3b-33d8-00e1c6c9387f.htm" />
-  <HelpKINode Title="FixedUpdate method" Url="html/e39aeee7-b7a5-6ac4-fd9d-a683966722af.htm" />
   <HelpKINode Title="fixedUpdate method">
     <HelpKINode Title="CameraManager.fixedUpdate Method " Url="html/a39b6a5c-cc0e-0a25-df73-bde8bd279cc6.htm" />
     <HelpKINode Title="Cinematic.fixedUpdate Method " Url="html/9df9e966-c7fb-2317-108b-3a72ffa4d5e1.htm" />
@@ -4511,6 +4510,7 @@
     <HelpKINode Title="GameState.fixedUpdate Method " Url="html/d4c02730-a2a8-dfa7-0a80-f7a18d16ebb5.htm" />
     <HelpKINode Title="GameStateGame.fixedUpdate Method " Url="html/16a1ebd8-6340-a499-ada3-b81a481ba363.htm" />
   </HelpKINode>
+  <HelpKINode Title="FixedUpdate method" Url="html/e39aeee7-b7a5-6ac4-fd9d-a683966722af.htm" />
   <HelpKINode Title="FlagAggressive field" Url="html/82406532-4642-5322-c5c9-1bc29b48d9bb.htm" />
   <HelpKINode Title="FlagAirlock field" Url="html/b7719d3e-e3aa-c5ef-0802-580b96945f4c.htm" />
   <HelpKINode Title="FlagAlternativeConsumption field" Url="html/8082e44c-3c66-ba98-da85-14ca1e0d4327.htm" />
@@ -5063,8 +5063,8 @@
   <HelpKINode Title="GameStateGame class">
     <HelpKINode Title="GameStateGame Class" Url="html/a35eb3e3-3a67-39fa-d608-59c7631d5ebf.htm" />
     <HelpKINode Title="about GameStateGame class" Url="html/a35eb3e3-3a67-39fa-d608-59c7631d5ebf.htm" />
-    <HelpKINode Title="constructor" Url="html/3e0737b1-d724-a181-cea0-a7bd5b4fb177.htm" />
     <HelpKINode Title="constructor" Url="html/e067388c-2ecf-8862-dbfd-260f621205ae.htm" />
+    <HelpKINode Title="constructor" Url="html/3e0737b1-d724-a181-cea0-a7bd5b4fb177.htm" />
     <HelpKINode Title="fields" Url="html/e1c9cea2-c7c3-00d2-92e0-218771031a3e.htm" />
     <HelpKINode Title="methods" Url="html/6da0c188-91ef-8e2c-e592-78a1a329f201.htm" />
   </HelpKINode>
@@ -5080,8 +5080,8 @@
   <HelpKINode Title="GameStateGame.findStartPosition method" Url="html/e001a5ca-8a6c-bc4a-6cb1-a16c9e763113.htm" />
   <HelpKINode Title="GameStateGame.fixedUpdate method" Url="html/16a1ebd8-6340-a499-ada3-b81a481ba363.htm" />
   <HelpKINode Title="GameStateGame.GameStateGame constructor">
-    <HelpKINode Title="GameStateGame Constructor " Url="html/3e0737b1-d724-a181-cea0-a7bd5b4fb177.htm" />
     <HelpKINode Title="GameStateGame Constructor " Url="html/e067388c-2ecf-8862-dbfd-260f621205ae.htm" />
+    <HelpKINode Title="GameStateGame Constructor " Url="html/3e0737b1-d724-a181-cea0-a7bd5b4fb177.htm" />
   </HelpKINode>
   <HelpKINode Title="GameStateGame.getLoadingWaitTime method" Url="html/d8bbc03a-aa44-94f6-b849-175983a0e979.htm" />
   <HelpKINode Title="GameStateGame.getStartPosBumpiness method" Url="html/5c41bf69-ac6f-07c3-c837-80721de9603a.htm" />
@@ -7047,8 +7047,8 @@
   <HelpKINode Title="Grid class">
     <HelpKINode Title="Grid Class" Url="html/a9e2aa0c-9608-7c9d-9826-3adcf56b03f5.htm" />
     <HelpKINode Title="about Grid class" Url="html/a9e2aa0c-9608-7c9d-9826-3adcf56b03f5.htm" />
-    <HelpKINode Title="constructor" Url="html/9e65ef2a-095c-8ca1-0fad-5c270e29e89c.htm" />
     <HelpKINode Title="constructor" Url="html/77508462-86be-fb61-e2d1-c5a75dafd80e.htm" />
+    <HelpKINode Title="constructor" Url="html/9e65ef2a-095c-8ca1-0fad-5c270e29e89c.htm" />
     <HelpKINode Title="fields" Url="html/e6efd806-8215-d3de-f72b-f5c2d72e834e.htm" />
     <HelpKINode Title="methods" Url="html/cc9e5288-f1c1-2b73-91dd-c37a7a8d7641.htm" />
   </HelpKINode>
@@ -7077,8 +7077,8 @@
   <HelpKINode Title="Grid.getWaterGridIndicator method" Url="html/d73e13b1-d262-a8dd-c9a6-0d1c49fdb3d5.htm" />
   <HelpKINode Title="Grid.getWaterStorageIndicator method" Url="html/b41e3410-6a5d-1cb8-8586-5c6dbe0a7d37.htm" />
   <HelpKINode Title="Grid.Grid constructor">
-    <HelpKINode Title="Grid Constructor " Url="html/9e65ef2a-095c-8ca1-0fad-5c270e29e89c.htm" />
     <HelpKINode Title="Grid Constructor " Url="html/77508462-86be-fb61-e2d1-c5a75dafd80e.htm" />
+    <HelpKINode Title="Grid Constructor " Url="html/9e65ef2a-095c-8ca1-0fad-5c270e29e89c.htm" />
   </HelpKINode>
   <HelpKINode Title="Grid.isGridConnected method" Url="html/f29add0b-c797-b69a-b323-5b727083afc0.htm" />
   <HelpKINode Title="Grid.isResourceAvailable method" Url="html/813b5407-d556-adf7-b581-74e9fd329d77.htm" />
@@ -7262,8 +7262,8 @@
   <HelpKINode Title="GuiChartsWindow class">
     <HelpKINode Title="GuiChartsWindow Class" Url="html/07b2545b-97aa-5e19-1053-dea067a347e4.htm" />
     <HelpKINode Title="about GuiChartsWindow class" Url="html/07b2545b-97aa-5e19-1053-dea067a347e4.htm" />
-    <HelpKINode Title="constructor" Url="html/b5536c05-6963-20b3-7cdc-90345fa79abd.htm" />
     <HelpKINode Title="constructor" Url="html/7421bf59-6040-9e45-2f0c-a4a7baf5d03d.htm" />
+    <HelpKINode Title="constructor" Url="html/b5536c05-6963-20b3-7cdc-90345fa79abd.htm" />
     <HelpKINode Title="fields" Url="html/ee8caf10-32a9-5c05-43ff-7930e0e88010.htm" />
     <HelpKINode Title="methods" Url="html/c75fd82b-9462-06fa-ddd9-c8d7537f7841.htm" />
   </HelpKINode>
@@ -7940,8 +7940,8 @@
   <HelpKINode Title="GuiStyles class">
     <HelpKINode Title="GuiStyles Class" Url="html/e79add7a-32f1-95a2-a0fe-092686959995.htm" />
     <HelpKINode Title="about GuiStyles class" Url="html/e79add7a-32f1-95a2-a0fe-092686959995.htm" />
-    <HelpKINode Title="constructor" Url="html/057691ce-113d-3a62-a6a3-36810912029c.htm" />
     <HelpKINode Title="constructor" Url="html/8b64ed58-970f-f913-ed86-0b019a56a37a.htm" />
+    <HelpKINode Title="constructor" Url="html/057691ce-113d-3a62-a6a3-36810912029c.htm" />
     <HelpKINode Title="fields" Url="html/de15f9a8-ed75-bcfa-1f35-33adcc1ef2b5.htm" />
     <HelpKINode Title="methods" Url="html/a9efc3db-a8ca-8036-26c1-6c2cb694b6e8.htm" />
   </HelpKINode>
@@ -7969,8 +7969,8 @@
   <HelpKINode Title="GuiStyles.getTooltipStyle method" Url="html/08eb99e1-3851-742a-0d8b-024473ff3180.htm" />
   <HelpKINode Title="GuiStyles.getVerticalBarBackgroundTexture method" Url="html/0649ac99-b240-8b4a-8e38-9d40a8d55ac9.htm" />
   <HelpKINode Title="GuiStyles.GuiStyles constructor">
-    <HelpKINode Title="GuiStyles Constructor " Url="html/057691ce-113d-3a62-a6a3-36810912029c.htm" />
     <HelpKINode Title="GuiStyles Constructor " Url="html/8b64ed58-970f-f913-ed86-0b019a56a37a.htm" />
+    <HelpKINode Title="GuiStyles Constructor " Url="html/057691ce-113d-3a62-a6a3-36810912029c.htm" />
   </HelpKINode>
   <HelpKINode Title="GuiStyles.IconMargin field" Url="html/7ae51bb9-b3a6-1c58-6499-422708f8cf24.htm" />
   <HelpKINode Title="GuiStyles.IconSize field" Url="html/bf52adc3-86ce-4ce9-748c-4707dbce747e.htm" />
@@ -8743,8 +8743,8 @@
   <HelpKINode Title="Interaction.getTransitionOutPoint method" Url="html/75ede86e-c97d-fb66-fce6-8405734f6eb2.htm" />
   <HelpKINode Title="Interaction.init method" Url="html/d3f54fdc-2c8e-79a6-4124-7d60544fae3f.htm" />
   <HelpKINode Title="Interaction.Interaction constructor">
-    <HelpKINode Title="Interaction Constructor " Url="html/2d15a7db-c153-237e-fda9-42c00030fe07.htm" />
     <HelpKINode Title="Interaction Constructor " Url="html/cbd07b9e-447c-1f8f-27c2-deaa3bb038a8.htm" />
+    <HelpKINode Title="Interaction Constructor " Url="html/2d15a7db-c153-237e-fda9-42c00030fe07.htm" />
   </HelpKINode>
   <HelpKINode Title="Interaction.isRestoreStatusInteraction method" Url="html/796b9ca4-bddd-d233-9754-5d61be3456fb.htm" />
   <HelpKINode Title="Interaction.mCharacter field" Url="html/45b07703-b33b-caf7-9652-e77dd9c8553f.htm" />
@@ -10582,8 +10582,8 @@
   <HelpKINode Title="Message.mCondensationCount field" Url="html/739cc442-0267-e610-1043-83a3cf429063.htm" />
   <HelpKINode Title="Message.mDescription field" Url="html/15363a0f-a2c5-3f37-4ba0-1c46539fe737.htm" />
   <HelpKINode Title="Message.Message constructor">
-    <HelpKINode Title="Message Constructor " Url="html/d11b9378-41fe-290d-e940-d43978c4248d.htm" />
     <HelpKINode Title="Message Constructor " Url="html/18d0a333-db15-4b80-a5a0-f02927184a8d.htm" />
+    <HelpKINode Title="Message Constructor " Url="html/d11b9378-41fe-290d-e940-d43978c4248d.htm" />
   </HelpKINode>
   <HelpKINode Title="Message.mFlags field" Url="html/4843b974-5d49-074a-a766-dadaa66d6a57.htm" />
   <HelpKINode Title="Message.mIcon field" Url="html/fc3bb4ac-8bc0-8ab8-cbbf-11bc455eb19f.htm" />
@@ -11490,8 +11490,8 @@
   <HelpKINode Title="Module class">
     <HelpKINode Title="Module Class" Url="html/eac7a1bb-88bc-1de6-33f2-5f1f3016ac03.htm" />
     <HelpKINode Title="about Module class" Url="html/eac7a1bb-88bc-1de6-33f2-5f1f3016ac03.htm" />
-    <HelpKINode Title="constructor" Url="html/22dfa8df-a689-60ec-273b-b1f2b24c1c8f.htm" />
     <HelpKINode Title="constructor" Url="html/e83a4974-8e4a-0fbc-6893-f219a9fa8098.htm" />
+    <HelpKINode Title="constructor" Url="html/22dfa8df-a689-60ec-273b-b1f2b24c1c8f.htm" />
     <HelpKINode Title="fields" Url="html/8f21b98d-77c1-fe4b-1a1b-8f817f0a537d.htm" />
     <HelpKINode Title="methods" Url="html/f6f6338e-04f0-aca1-32b5-9a63d0b8a0f8.htm" />
   </HelpKINode>
@@ -11828,8 +11828,8 @@
   <HelpKINode Title="ModuleType.mModels field" Url="html/fab55a2f-d994-8102-74ca-9b5c1c85f7c5.htm" />
   <HelpKINode Title="ModuleType.mName field" Url="html/e01ec68d-cb16-d884-5075-46840f833b9b.htm" />
   <HelpKINode Title="ModuleType.ModuleType constructor">
-    <HelpKINode Title="ModuleType Constructor " Url="html/79247f0f-87cc-c8e4-d681-f76b37b788d6.htm" />
     <HelpKINode Title="ModuleType Constructor " Url="html/27d1effa-89a7-7327-c06e-a5fa82e0b0ca.htm" />
+    <HelpKINode Title="ModuleType Constructor " Url="html/79247f0f-87cc-c8e4-d681-f76b37b788d6.htm" />
   </HelpKINode>
   <HelpKINode Title="ModuleType.mOxygenGeneration field" Url="html/afb0a187-6fbe-6e24-8cf4-6d4143a8240c.htm" />
   <HelpKINode Title="ModuleType.mPowerCollection field" Url="html/13996b33-e6b7-dc2e-d7cd-7c6f3db04d56.htm" />
@@ -12924,8 +12924,8 @@
   <HelpKINode Title="NameGenerator class">
     <HelpKINode Title="NameGenerator Class" Url="html/4777c7b6-f90f-2b0f-d5e8-40d71d8edbe9.htm" />
     <HelpKINode Title="about NameGenerator class" Url="html/4777c7b6-f90f-2b0f-d5e8-40d71d8edbe9.htm" />
-    <HelpKINode Title="constructor" Url="html/0597b76b-58fb-5edf-50ca-9856942eba36.htm" />
     <HelpKINode Title="constructor" Url="html/30e4c336-8886-51dd-bda8-541d428b70a8.htm" />
+    <HelpKINode Title="constructor" Url="html/0597b76b-58fb-5edf-50ca-9856942eba36.htm" />
     <HelpKINode Title="fields" Url="html/f310046e-68da-503b-29ca-87bc5e2bcad2.htm" />
     <HelpKINode Title="methods" Url="html/b3470ad3-0db2-6515-a7a5-79534563ed6a.htm" />
   </HelpKINode>
@@ -12985,8 +12985,8 @@
   <HelpKINode Title="NavigationGraph class">
     <HelpKINode Title="NavigationGraph Class" Url="html/b05c7914-2bcf-e05c-60b0-2e232997eac5.htm" />
     <HelpKINode Title="about NavigationGraph class" Url="html/b05c7914-2bcf-e05c-60b0-2e232997eac5.htm" />
-    <HelpKINode Title="constructor" Url="html/937ec889-3b1a-2e56-2203-efed01a70f7e.htm" />
     <HelpKINode Title="constructor" Url="html/9c1f09f9-01f5-20b4-f096-7c4f9b9de851.htm" />
+    <HelpKINode Title="constructor" Url="html/937ec889-3b1a-2e56-2203-efed01a70f7e.htm" />
     <HelpKINode Title="fields" Url="html/c760dced-bca6-e333-305e-ced0c21176cb.htm" />
     <HelpKINode Title="methods" Url="html/e5362c72-aab3-d7b1-673c-419e2e9b8c39.htm" />
   </HelpKINode>
@@ -13025,8 +13025,8 @@
   <HelpKINode Title="NavigationGraph.mNavigationColorList field" Url="html/e3dd677a-3bef-87d1-b7cc-b72a39f774d4.htm" />
   <HelpKINode Title="NavigationGraph.mPosition field" Url="html/547a603b-6dd6-e35e-a57e-3491a30986f5.htm" />
   <HelpKINode Title="NavigationGraph.NavigationGraph constructor">
-    <HelpKINode Title="NavigationGraph Constructor " Url="html/9c1f09f9-01f5-20b4-f096-7c4f9b9de851.htm" />
     <HelpKINode Title="NavigationGraph Constructor " Url="html/937ec889-3b1a-2e56-2203-efed01a70f7e.htm" />
+    <HelpKINode Title="NavigationGraph Constructor " Url="html/9c1f09f9-01f5-20b4-f096-7c4f9b9de851.htm" />
   </HelpKINode>
   <HelpKINode Title="NavigationGraph.NodeCount field" Url="html/fbe5d3fc-84a2-4b0c-f754-24a33c532840.htm" />
   <HelpKINode Title="NavigationGraph.removeBlocker method" Url="html/2f63fa75-67e4-f7e9-791f-caef9208771b.htm" />
@@ -13285,8 +13285,8 @@
     <HelpKINode Title="GameStateChallengeSelection.onGui Method " Url="html/381bdb71-2bb9-1398-918d-251b226987f2.htm" />
     <HelpKINode Title="GameStateControls.onGui Method " Url="html/3200e84b-3a6b-9508-3ccb-881625060c71.htm" />
     <HelpKINode Title="GameStateCredits.onGui Method " Url="html/2cbaf410-32d4-317a-e0fd-4435581ba003.htm" />
-    <HelpKINode Title="GameStateGame.onGui Method " Url="html/3408d374-657f-2fab-4a8a-047a83515add.htm" />
     <HelpKINode Title="GameStateLoadGame.onGui Method " Url="html/a07d182d-634c-adba-f0a6-3bac8bbc9c13.htm" />
+    <HelpKINode Title="GameStateGame.onGui Method " Url="html/3408d374-657f-2fab-4a8a-047a83515add.htm" />
     <HelpKINode Title="GameStateLocationSelection.onGui Method " Url="html/17a0049e-32cb-59c4-53e2-aae295d702a9.htm" />
     <HelpKINode Title="GameStateLogo.onGui Method " Url="html/70535c31-67e6-8331-f560-2d81a983ee03.htm" />
     <HelpKINode Title="GameStateSettings.onGui Method " Url="html/d662bd1b-b1d8-e850-a871-0768fcc937d7.htm" />
@@ -15081,8 +15081,8 @@
   <HelpKINode Title="Resource class">
     <HelpKINode Title="Resource Class" Url="html/cc887deb-56ac-baf1-4c3e-a945c8f5055b.htm" />
     <HelpKINode Title="about Resource class" Url="html/cc887deb-56ac-baf1-4c3e-a945c8f5055b.htm" />
-    <HelpKINode Title="constructor" Url="html/bf13df4a-0575-1e60-b14d-75d9a248ee98.htm" />
     <HelpKINode Title="constructor" Url="html/8e8ef02d-2fb6-d5dc-8191-afc44193981d.htm" />
+    <HelpKINode Title="constructor" Url="html/bf13df4a-0575-1e60-b14d-75d9a248ee98.htm" />
     <HelpKINode Title="fields" Url="html/3c13e62b-a6a7-166d-f174-cfecd738c880.htm" />
     <HelpKINode Title="methods" Url="html/65f1a3ed-d7b2-1df8-9488-8516800478a5.htm" />
   </HelpKINode>
@@ -15173,8 +15173,8 @@
   <HelpKINode Title="Resource.removeFromStorage method" Url="html/cd60e228-13ac-cdd6-ed70-07a7d87f9754.htm" />
   <HelpKINode Title="Resource.removeInmaterialResource method" Url="html/f64cde81-4f9e-065e-e7a2-2d83d1b5bc08.htm" />
   <HelpKINode Title="Resource.Resource constructor">
-    <HelpKINode Title="Resource Constructor " Url="html/8e8ef02d-2fb6-d5dc-8191-afc44193981d.htm" />
     <HelpKINode Title="Resource Constructor " Url="html/bf13df4a-0575-1e60-b14d-75d9a248ee98.htm" />
+    <HelpKINode Title="Resource Constructor " Url="html/8e8ef02d-2fb6-d5dc-8191-afc44193981d.htm" />
   </HelpKINode>
   <HelpKINode Title="Resource.serialize method" Url="html/cb2922b0-d651-f488-b074-3da39a1da2a7.htm" />
   <HelpKINode Title="Resource.serializeAll method" Url="html/df07202d-8763-4b0f-2f2f-3008ce4847cc.htm" />
@@ -15404,8 +15404,8 @@
   <HelpKINode Title="ResourceType class">
     <HelpKINode Title="ResourceType Class" Url="html/98b4b81c-0881-9554-9053-38ac658e7cd8.htm" />
     <HelpKINode Title="about ResourceType class" Url="html/98b4b81c-0881-9554-9053-38ac658e7cd8.htm" />
-    <HelpKINode Title="constructor" Url="html/b25c1edd-5925-976d-682e-e5a975396f9f.htm" />
     <HelpKINode Title="constructor" Url="html/f151909d-9f7b-598b-9937-ad444f61fa07.htm" />
+    <HelpKINode Title="constructor" Url="html/b25c1edd-5925-976d-682e-e5a975396f9f.htm" />
     <HelpKINode Title="fields" Url="html/5598a699-3e95-8d73-0847-10ede9f469cb.htm" />
     <HelpKINode Title="methods" Url="html/7c2f38c2-bf27-f14a-2732-c7389a0ffc60.htm" />
   </HelpKINode>
@@ -15595,8 +15595,8 @@
   <HelpKINode Title="SaveData class">
     <HelpKINode Title="SaveData Class" Url="html/6a40c8d0-b774-fd69-b3d5-b618fb7afd4e.htm" />
     <HelpKINode Title="about SaveData class" Url="html/6a40c8d0-b774-fd69-b3d5-b618fb7afd4e.htm" />
-    <HelpKINode Title="constructor" Url="html/3da5d318-e04f-dd5e-5cf3-0883e634179d.htm" />
     <HelpKINode Title="constructor" Url="html/f9000ab7-5267-7adf-a498-c20312084e75.htm" />
+    <HelpKINode Title="constructor" Url="html/3da5d318-e04f-dd5e-5cf3-0883e634179d.htm" />
     <HelpKINode Title="fields" Url="html/765ff6ff-1a10-f488-2d2b-5e8b955f1eec.htm" />
     <HelpKINode Title="methods" Url="html/64b9e7cb-1282-f2d8-446b-e0c94985cd7a.htm" />
   </HelpKINode>
@@ -15638,8 +15638,8 @@
   <HelpKINode Title="SaveData.mScreenshotLoaded field" Url="html/09984712-a836-70ac-fc5a-9b9ecec77b48.htm" />
   <HelpKINode Title="SaveData.mValid field" Url="html/568b76d1-d224-74fd-9086-6631fc1edc70.htm" />
   <HelpKINode Title="SaveData.SaveData constructor">
-    <HelpKINode Title="SaveData Constructor " Url="html/f9000ab7-5267-7adf-a498-c20312084e75.htm" />
     <HelpKINode Title="SaveData Constructor " Url="html/3da5d318-e04f-dd5e-5cf3-0883e634179d.htm" />
+    <HelpKINode Title="SaveData Constructor " Url="html/f9000ab7-5267-7adf-a498-c20312084e75.htm" />
   </HelpKINode>
   <HelpKINode Title="SaveData.saveScreenshot method" Url="html/ad0bf420-1fa6-daac-9c13-16d5f98c1de9.htm" />
   <HelpKINode Title="saveGame method" Url="html/497bac13-a96f-ead3-7325-26aba6cec7e5.htm" />
@@ -15797,8 +15797,8 @@
   <HelpKINode Title="Selection class">
     <HelpKINode Title="Selection Class" Url="html/dffdab32-e939-64f9-dd63-a38835b6105f.htm" />
     <HelpKINode Title="about Selection class" Url="html/dffdab32-e939-64f9-dd63-a38835b6105f.htm" />
-    <HelpKINode Title="constructor" Url="html/71efaf44-fed9-cc5c-2300-3279e4e10bf3.htm" />
     <HelpKINode Title="constructor" Url="html/465f7690-047b-e5bf-fde7-0c372cb7c570.htm" />
+    <HelpKINode Title="constructor" Url="html/71efaf44-fed9-cc5c-2300-3279e4e10bf3.htm" />
     <HelpKINode Title="fields" Url="html/11f5f86f-b971-fc24-b0ae-24831e35a96d.htm" />
     <HelpKINode Title="methods" Url="html/b2d05856-dc75-8015-0b75-580278d1cfa8.htm" />
   </HelpKINode>
@@ -16401,8 +16401,8 @@
   <HelpKINode Title="Ship class">
     <HelpKINode Title="Ship Class" Url="html/4c91af13-68ed-2562-1af6-81da09a80ad3.htm" />
     <HelpKINode Title="about Ship class" Url="html/4c91af13-68ed-2562-1af6-81da09a80ad3.htm" />
-    <HelpKINode Title="constructor" Url="html/4704cc9f-a53d-556b-08bb-0e0ced806a27.htm" />
     <HelpKINode Title="constructor" Url="html/015c7467-e890-d8c3-c45e-40dcd9e44d40.htm" />
+    <HelpKINode Title="constructor" Url="html/4704cc9f-a53d-556b-08bb-0e0ced806a27.htm" />
     <HelpKINode Title="fields" Url="html/cd846def-7d63-e3c2-a610-3b9064c48126.htm" />
     <HelpKINode Title="methods" Url="html/4f43d2fc-251b-c235-269b-4bfc3be07496.htm" />
   </HelpKINode>
@@ -16548,8 +16548,8 @@
   <HelpKINode Title="Sign.Severity enumeration" Url="html/6db4009b-e993-fb3b-a2dd-86ef444dd56c.htm" />
   <HelpKINode Title="Sign.SeverityColors field" Url="html/cff194a1-0c51-2caf-8c5e-a0be5e58f70c.htm" />
   <HelpKINode Title="Sign.Sign constructor">
-    <HelpKINode Title="Sign Constructor " Url="html/2cb38f34-090e-0668-0010-50b064f5c382.htm" />
     <HelpKINode Title="Sign Constructor " Url="html/873f43ad-a6ea-f1c5-55b6-0ac422ac6332.htm" />
+    <HelpKINode Title="Sign Constructor " Url="html/2cb38f34-090e-0668-0010-50b064f5c382.htm" />
   </HelpKINode>
   <HelpKINode Title="SignManager class">
     <HelpKINode Title="SignManager Class" Url="html/08dd1ef4-a2ba-7896-3657-c6083ec82255.htm" />
@@ -16669,8 +16669,8 @@
   <HelpKINode Title="SoundDefinition class">
     <HelpKINode Title="SoundDefinition Class" Url="html/0b01530a-7940-c782-bef0-66c609bfda98.htm" />
     <HelpKINode Title="about SoundDefinition class" Url="html/0b01530a-7940-c782-bef0-66c609bfda98.htm" />
-    <HelpKINode Title="constructor" Url="html/b070de12-2cad-d7be-464c-99be7078a314.htm" />
     <HelpKINode Title="constructor" Url="html/7222a2b4-3c3b-7851-b047-f0459063af45.htm" />
+    <HelpKINode Title="constructor" Url="html/b070de12-2cad-d7be-464c-99be7078a314.htm" />
     <HelpKINode Title="fields" Url="html/5d8b3fa6-d911-ce4e-9e81-d11cae0843ab.htm" />
     <HelpKINode Title="methods" Url="html/912922e9-02ed-9d00-160c-7b232c65b138.htm" />
   </HelpKINode>
@@ -16990,15 +16990,15 @@
   <HelpKINode Title="Starch.Starch constructor" Url="html/5fb71293-e228-0b4a-471b-55cc90757b25.htm" />
   <HelpKINode Title="StarchInstance field" Url="html/61cbbe47-bb49-dcbb-32a0-8252c846a20f.htm" />
   <HelpKINode Title="Starport enumeration member" Url="html/0a7acac4-ada0-7d05-e9d8-f2175ab75503.htm" />
+  <HelpKINode Title="start method">
+    <HelpKINode Title="TutorialManager.start Method " Url="html/533126e7-bf27-72ed-4218-37178908e89e.htm" />
+    <HelpKINode Title="PerformanceTimer.start Method " Url="html/e0cac58d-36bc-85f2-8e8b-1251650b85cc.htm" />
+  </HelpKINode>
   <HelpKINode Title="Start method">
     <HelpKINode Title="MainLight.Start Method " Url="html/91784d9e-245b-cb78-358c-2e6205785de1.htm" />
     <HelpKINode Title="MeteorBehaviour.Start Method " Url="html/97ecd6fa-18a5-8722-b261-245e62e48800.htm" />
     <HelpKINode Title="ResourceList.Start Method " Url="html/301eda02-e490-d76a-a290-3a82a9f8e412.htm" />
     <HelpKINode Title="ThunderBehaviour.Start Method " Url="html/784221be-bfdc-37b5-a75a-90e073298c1a.htm" />
-  </HelpKINode>
-  <HelpKINode Title="start method">
-    <HelpKINode Title="PerformanceTimer.start Method " Url="html/e0cac58d-36bc-85f2-8e8b-1251650b85cc.htm" />
-    <HelpKINode Title="TutorialManager.start Method " Url="html/533126e7-bf27-72ed-4218-37178908e89e.htm" />
   </HelpKINode>
   <HelpKINode Title="startBuilding method">
     <HelpKINode Title="Buildable.startBuilding Method " Url="html/40caad5b-b2e8-f17a-a69b-76a28efb37e4.htm" />
@@ -17399,8 +17399,8 @@
   <HelpKINode Title="TerrainGenerator class">
     <HelpKINode Title="TerrainGenerator Class" Url="html/0242b274-23b7-df73-941e-a65c827ad342.htm" />
     <HelpKINode Title="about TerrainGenerator class" Url="html/0242b274-23b7-df73-941e-a65c827ad342.htm" />
-    <HelpKINode Title="constructor" Url="html/d2f69f45-6019-caa1-d7d9-d6a2ff4d8efd.htm" />
     <HelpKINode Title="constructor" Url="html/308b23ed-a091-3c7c-1eac-ea049d9f6016.htm" />
+    <HelpKINode Title="constructor" Url="html/d2f69f45-6019-caa1-d7d9-d6a2ff4d8efd.htm" />
     <HelpKINode Title="fields" Url="html/f7019749-a5ca-44a3-22ec-21abca691d72.htm" />
     <HelpKINode Title="methods" Url="html/fe248525-4275-ba6a-77bd-0d49112eb96a.htm" />
   </HelpKINode>
@@ -18187,8 +18187,8 @@
     <HelpKINode Title="AiRuleGetOutOfTheWay.update Method " Url="html/bb5563b2-2376-ff23-95b3-19c90f001a44.htm" />
     <HelpKINode Title="AiRuleGoAttackColonist.update Method " Url="html/6d1dc3ee-5c85-9eb8-5eee-3ad1ab1f1846.htm" />
     <HelpKINode Title="AiRuleGoAttackIntruder.update Method " Url="html/d1594c29-bdf3-82f1-7009-a2ee00d4884f.htm" />
-    <HelpKINode Title="AiRuleGoBackToShip.update Method " Url="html/5cf1dba8-fb11-8b9f-9751-9520ae88dc5e.htm" />
     <HelpKINode Title="AiRuleGoBuild.update Method " Url="html/e5bac283-dc18-da5b-5f30-8098f5d6e04d.htm" />
+    <HelpKINode Title="AiRuleGoBackToShip.update Method " Url="html/5cf1dba8-fb11-8b9f-9751-9520ae88dc5e.htm" />
     <HelpKINode Title="AiRuleGoConsumeResource.update Method " Url="html/3ff4dc73-ec0a-4044-cb32-87b87c79ef43.htm" />
     <HelpKINode Title="AiRuleGoDeliverConstructionMaterials.update Method " Url="html/39c9ff8e-7b34-d535-ae79-da8d67481fa0.htm" />
     <HelpKINode Title="AiRuleGoDrink.update Method " Url="html/5cedf025-f357-a170-8f7e-4af24e7754e6.htm" />
@@ -18201,9 +18201,9 @@
     <HelpKINode Title="AiRuleGoGetResourceToConsume(T).update Method " Url="html/269dbcd8-6958-aece-00a6-eace0ae4c4ca.htm" />
     <HelpKINode Title="AiRuleGoGetResourceToRepair.update Method " Url="html/5da5c869-1418-7fa3-79ca-18383b33e6fe.htm" />
     <HelpKINode Title="AiRuleGoGetResourceToRestore.update Method " Url="html/a61a1533-60ae-96ad-c87f-48acac2029b5.htm" />
-    <HelpKINode Title="AiRuleGoGetWeapon.update Method " Url="html/a7e991df-f201-ef2c-289d-2fc51829da29.htm" />
     <HelpKINode Title="AiRuleGoInterior.update Method " Url="html/094d02a0-20cc-aed9-5295-64e7fb7ffd31.htm" />
     <HelpKINode Title="AiRuleGoInteriorLowOxygen.update Method " Url="html/c0fdaeab-28d5-7461-eb23-4b8230f7085c.htm" />
+    <HelpKINode Title="AiRuleGoGetWeapon.update Method " Url="html/a7e991df-f201-ef2c-289d-2fc51829da29.htm" />
     <HelpKINode Title="AiRuleGoLoadResourcesForTransformers.update Method " Url="html/47380423-ef17-a126-8553-640181403d67.htm" />
     <HelpKINode Title="AiRuleGoLoadResourcesToStore.update Method " Url="html/c0a62e68-ef56-41b2-7094-0842abb60c0b.htm" />
     <HelpKINode Title="AiRuleGoLoadResourcesToTrade.update Method " Url="html/3782479f-4bab-0b55-faf6-411bcaef5cd2.htm" />
@@ -18213,8 +18213,8 @@
     <HelpKINode Title="AiRuleGoRepair.update Method " Url="html/2014291e-bf3e-84cd-60ac-76ab7778083e.htm" />
     <HelpKINode Title="AiRuleGoRestore.update Method " Url="html/f438be96-59bb-f19e-7140-41f03dfd3940.htm" />
     <HelpKINode Title="AiRuleGoSelfRepair.update Method " Url="html/5eee9468-bdfc-3388-0a9a-07f8d66f6667.htm" />
-    <HelpKINode Title="AiRuleGoSleep.update Method " Url="html/63ed4a55-d630-822b-69f3-eced2aa0e80b.htm" />
     <HelpKINode Title="AiRuleGoStoreLoadedResources.update Method " Url="html/7ce4749a-a463-577f-8d64-31d72affe8bd.htm" />
+    <HelpKINode Title="AiRuleGoSleep.update Method " Url="html/63ed4a55-d630-822b-69f3-eced2aa0e80b.htm" />
     <HelpKINode Title="AiRuleGoTradeLoadedResources.update Method " Url="html/ac66db70-6cad-db00-864d-4634e2f5e98d.htm" />
     <HelpKINode Title="AiRuleLoadResource.update Method " Url="html/258cee30-8c31-553c-d1e1-ac1b0e7806cf.htm" />
     <HelpKINode Title="AiRuleMine.update Method " Url="html/0b0f4a5e-278e-0fc7-e10d-cc95bbab5919.htm" />
@@ -18285,9 +18285,9 @@
     <HelpKINode Title="InteractionOperate.update Method " Url="html/2b9930e5-177e-3f40-3c45-7f4ffadb10be.htm" />
     <HelpKINode Title="InteractionRepairBuildable.update Method " Url="html/dee1b5d7-ca8b-cb82-cb64-67ee7aec8387.htm" />
     <HelpKINode Title="InteractionRestore.update Method " Url="html/b2b03203-2520-b247-05c8-91ee438af464.htm" />
+    <HelpKINode Title="InteractionSleepFloor.update Method " Url="html/7c599aa0-4a4c-ebca-b8dd-6981f80c9e4a.htm" />
     <HelpKINode Title="InteractionWaitForHealing.update Method " Url="html/fc32e456-9aa3-46a8-74c0-53bf2cae6e6d.htm" />
     <HelpKINode Title="InteractionWork.update Method " Url="html/13f0d423-ee2e-399d-6247-40890fd564c0.htm" />
-    <HelpKINode Title="InteractionSleepFloor.update Method " Url="html/7c599aa0-4a4c-ebca-b8dd-6981f80c9e4a.htm" />
     <HelpKINode Title="IntroCinemetic.update Method " Url="html/91172d2e-ee96-ffbf-4e95-380f32aa76b5.htm" />
     <HelpKINode Title="LandingShip.update Method " Url="html/5f678a4b-1dd5-0f7e-7eb1-020c66c80db3.htm" />
     <HelpKINode Title="LandingShipManager.update Method " Url="html/9b28b822-aefa-bdb9-a230-4dc885517d2e.htm" />
@@ -18326,12 +18326,12 @@
     <HelpKINode Title="VisitorEventManager.update Method " Url="html/6b5c6aa0-2e90-b754-cd2a-cfea5bc69b14.htm" />
   </HelpKINode>
   <HelpKINode Title="Update method">
-    <HelpKINode Title="GameBehaviour.Update Method " Url="html/bf335f24-4a27-5862-7755-0df715334c4c.htm" />
-    <HelpKINode Title="ResourceList.Update Method " Url="html/8831f289-1fdc-250e-c372-a438fca8f628.htm" />
-    <HelpKINode Title="MainLight.Update Method " Url="html/e8d58bd8-16cd-8eb3-07aa-1177845dcb0b.htm" />
-    <HelpKINode Title="ThunderBehaviour.Update Method " Url="html/df651ac5-2e8e-7d44-8b3e-604f70fc4dd1.htm" />
-    <HelpKINode Title="MeteorBehaviour.Update Method " Url="html/28dbc5d1-1084-3a9f-7c21-fc304f02f759.htm" />
     <HelpKINode Title="IMod.Update Method " Url="html/2838d8ca-4fc6-43dd-2750-c5cfad041396.htm" />
+    <HelpKINode Title="MeteorBehaviour.Update Method " Url="html/28dbc5d1-1084-3a9f-7c21-fc304f02f759.htm" />
+    <HelpKINode Title="ResourceList.Update Method " Url="html/8831f289-1fdc-250e-c372-a438fca8f628.htm" />
+    <HelpKINode Title="ThunderBehaviour.Update Method " Url="html/df651ac5-2e8e-7d44-8b3e-604f70fc4dd1.htm" />
+    <HelpKINode Title="GameBehaviour.Update Method " Url="html/bf335f24-4a27-5862-7755-0df715334c4c.htm" />
+    <HelpKINode Title="MainLight.Update Method " Url="html/e8d58bd8-16cd-8eb3-07aa-1177845dcb0b.htm" />
   </HelpKINode>
   <HelpKINode Title="updateAirlockDistances method" Url="html/f10d540d-0845-d346-89d0-784390a4d4c1.htm" />
   <HelpKINode Title="updateAll method">
